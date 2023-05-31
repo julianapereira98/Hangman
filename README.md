@@ -5,7 +5,7 @@ Este é um projeto de Data Science Academy que implementa um jogo de adivinhaç�
 Para jogar o jogo, siga estas etapas:
 
 1. Clone este repositório ou faça o download do código fonte.
-2. Certifique-se de ter o Python 3.x instalado em seu computador.
+2. Certifique-se de ter o Python 3.9 instalado em seu computador.
 3. Abra um terminal de linha de comando na pasta onde você salvou o código.
 4. Execute o arquivo **hangman.py** digitando o seguinte comando: `python hangman.py`
 5 O jogo começará e você verá uma série de traços que representam a palavra secreta. Digite uma letra e pressione Enter para adivinhar. Se a letra estiver na palavra, ela será exibida nas posições corretas. Caso contrário, você cometerá um erro. Continue adivinhando letras até adivinhar a palavra ou cometer muitos erros.
